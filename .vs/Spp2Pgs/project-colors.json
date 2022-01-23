@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "e2b13697-7e59-4689-b773-95eb4c5a7915": {
+      "ProjectGuid": "e2b13697-7e59-4689-b773-95eb4c5a7915",
+      "DisplayName": "Spp2Pgs",
+      "ColorIndex": 0
+    },
+    "821d4850-3aa7-4d9c-50eb-5e7cb22a3a3e": {
+      "ProjectGuid": "821d4850-3aa7-4d9c-50eb-5e7cb22a3a3e",
+      "DisplayName": "libspp2pgs",
+      "ColorIndex": 1
+    },
+    "cfa2375c-a9b3-4253-9e21-aa4eb542be1d": {
+      "ProjectGuid": "cfa2375c-a9b3-4253-9e21-aa4eb542be1d",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

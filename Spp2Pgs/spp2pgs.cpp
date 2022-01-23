@@ -64,6 +64,9 @@ BdViFormat GetFormat(int optValue)
 	case 7:
 	case 576:
 		return BdViFormat::Vi576p;
+	case 8:
+	case 2160:
+		return BdViFormat::Vi2160p;
 	default:
 		return BdViFormat::Unknown;
 	}
@@ -119,6 +122,7 @@ void print_usage(S2PLogger const *logger)
 		"\t\t 720p   = 5/720\n"
 		"\t\t 1080p  = 6/1080\n"
 		"\t\t 576p   = 7/576\n"
+		"\t\t 2160p   = 8/2160\n"
 		"\t-r <rate>\n"
 		"\t\t Frame rate:\n"
 		"\t\t 23.976 = 1/23\n"

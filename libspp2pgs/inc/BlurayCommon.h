@@ -54,7 +54,8 @@ namespace spp2pgs
 		Vi1080i = 0x04,
 		Vi720p = 0x05,
 		Vi1080p = 0x06,
-		Vi576p = 0x07
+		Vi576p = 0x07,
+		Vi2160p = 0x08
 	};
 
 	enum struct BdViFrameRate : unsigned __int8

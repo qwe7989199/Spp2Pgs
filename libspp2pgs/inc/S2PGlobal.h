@@ -88,7 +88,7 @@ namespace spp2pgs
 	Size const VideoFormatTable[] = {
 		{ 0, 0 }, { 720, 480 }, { 720, 576 },
 		{ 720, 480 }, { 1920, 1080 }, { 1280, 720 },
-		{ 1920, 1080 }, { 720, 576 }
+		{ 1920, 1080 }, { 720, 576 }, { 3840, 2160 }
 	};
 	inline Size GetFrameSize(BdViFormat format)
 	{
